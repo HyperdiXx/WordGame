@@ -1,5 +1,9 @@
 # WordGame
 
-Small game app using Cocos 2d. 
+Small game app using Cocos 2d.
+
 Player should insert missing letters in different words. 
-You can always add new words into vocablary. Fully modifiable.
+
+You can always add new words into vocablary. 
+
+Fully modifiable.
